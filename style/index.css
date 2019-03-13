@@ -15,9 +15,11 @@ img{
      height:15%;
 	 text-align: center;
  }
- ul{
-	 font-style: bold;
-	 font-family: "Calibri";
-	 text-align: left;
+ nav{
+	 font-family: 'Noto Serif', serif;
+	 font-weight: 600;
+	 text-align: center;
+	 background-color: black;
+	 
  }
  
