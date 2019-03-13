@@ -25,8 +25,13 @@ h3{
 p{
 	font-style: normal;
 	font-family: "Times New Roman";
-	color: blue;
+	color: white;
+	background-color: black;
 	text-align: center;
+	background-origin: content-box;
+	border: 2px solid white;
+	
+	
 }
 img{
      width:15%;
@@ -40,6 +45,7 @@ nav {
   color: white;
   text-align: center;
   padding: 10px;
+ 
 }
 nav ul {
   list-style-type: none;
