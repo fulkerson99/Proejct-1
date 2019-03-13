@@ -35,6 +35,9 @@ nav ul {
   overflow: hidden;
 }
 nav li {
+	font-weight: 550;
+	color: white;
+	font-family: "Times New Roman";
    display:inline;
 }
 
