@@ -24,7 +24,7 @@ img{
 nav {
   font-family: 'Noto Serif', serif;
   font-weight: 600;
-  background-color: black;
+  background-color: linear-gradient(to bottom right, black, white);
   color: white;
   text-align: center;
   padding: 10px;
