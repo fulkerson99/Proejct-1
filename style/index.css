@@ -30,7 +30,7 @@ img{
 nav {
   font-family: 'Noto Serif', serif;
   font-weight: 600;
-  background-color: linear-gradient(to bottom right, black, white);
+  background-color: linear-gradient(-90deg, black, white);
   color: white;
   text-align: center;
   padding: 10px;
