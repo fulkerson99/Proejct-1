@@ -30,7 +30,8 @@ p{
 	text-align: center;
 	background-origin: content-box;
 	border: 2px solid white;
-	
+	float: center;
+	disply: inline-block;	
 	
 }
 img{
@@ -45,7 +46,7 @@ nav {
   color: white;
   text-align: center;
   padding: 10px;
-  display: inline;
+  display: inline-block;
   float: center;
   clear: both;
  
