@@ -45,6 +45,9 @@ nav {
   color: white;
   text-align: center;
   padding: 10px;
+  display: inline;
+  float: center;
+  clear: both;
  
 }
 nav ul {
